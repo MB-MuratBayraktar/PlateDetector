@@ -1,0 +1,2 @@
+C:\Users\mrmur\anaconda3\envs\licensePlateEnv
+C:\Users\mrmur\anaconda3\envs\licensePlatePython37
